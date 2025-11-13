@@ -23,16 +23,16 @@ requiere descargas!** Solo abre tu navegador web.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY) (00:00 - 05:24)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
-### Lección 5: Crear una página web sencilla (15 minutos)
+- **Práctica**: [Aplicar estilo con un clic](https://jsfiddle.net) 👈 **¡No es necesario registrarse!**
+### Lección 5: Crear una página web sencilla 
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY) (05:25 - 10:06)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://jsfiddle.net/Miguelon27/01kh9wt3/3) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
