@@ -35,7 +35,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Proyecto Final**: [Crea tu Perfil](https://jsfiddle.net/Miguelon27/01kh9wt3/3) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=cn_owueZaqc)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
 ## Recursos Adicionales
