@@ -1,0 +1,19 @@
+/* CONSEJO CLAVE: Usamos el selector 'body' para aplicar un estilo a toda la página */
+body {
+    background-color: #f0f0f0; /* Color de fondo gris claro */
+    font-family: Arial, sans-serif; /* Tipo de fuente para todo el cuerpo */
+}
+
+/* Aplicamos estilo solo a los encabezados h1 */
+h1 {
+    color: darkblue; /* Color de texto azul oscuro */
+    text-align: center; /* Centrar el texto */
+    border-bottom: 2px solid darkblue;
+    padding-bottom: 10px;
+}
+
+/* Aplicamos estilo a los párrafos */
+p {
+    font-size: 1.1em; /* Un poco más grande que el tamaño base */
+    color: #333; /* Color de texto gris oscuro */
+}
