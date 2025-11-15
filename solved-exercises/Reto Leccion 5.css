@@ -1,0 +1,19 @@
+body {
+    background-color: #f0f0f0; 
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+    border-bottom: 2px solid darkblue;
+    padding-bottom: 10px;
+}
+
+/* INICIO DEL RETO RESUELTO */
+p {
+    /* Usamos el selector 'p' para aplicar los estilos solicitados */
+    color: green; /* Cambiar el color a verde */
+    font-size: 20px; /* Cambiar el tamaño de fuente a 20px */
+}
+/* FIN DEL RETO RESUELTO */
