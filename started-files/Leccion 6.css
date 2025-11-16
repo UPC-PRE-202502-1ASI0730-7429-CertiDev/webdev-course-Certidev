@@ -1,0 +1,88 @@
+/* Leccion6.css (explicación)
+   CONSEJO CLAVE:
+   - Mantener el código ordenado y con comentarios claros.
+   - Usar nombres de clases descriptivos (no .caja1, .div2, etc.).
+*/
+
+/* Estilos globales básicos */
+body {
+    /* Tipografía base limpia y legible */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f6fb; /* Fondo gris azulado suave */
+    color: #222;               /* Texto gris oscuro para buena lectura */
+}
+
+/* Contenedor principal de la página */
+.contenedor-principal {
+    max-width: 900px;          /* Limitamos el ancho para mejorar la lectura */
+    margin: 40px auto;         /* Centramos horizontalmente */
+    padding: 24px;
+    background-color: #ffffff; /* Fondo blanco dentro del contenedor */
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+/* Título principal de la lección */
+.titulo-leccion {
+    font-size: 2rem;
+    margin-bottom: 12px;
+    color: #1B4E9B;            /* Azul profesional para títulos */
+}
+
+/* Subtítulo o descripción corta */
+.subtitulo-leccion {
+    font-size: 1.1rem;
+    margin-bottom: 24px;
+    color: #555;
+}
+
+/* Lista de consejos */
+.lista-consejos {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.lista-consejos li {
+    margin-bottom: 10px;
+}
+
+/* Tarjeta para destacar un consejo importante */
+.tarjeta-consejo {
+    margin-top: 24px;
+    padding: 16px 18px;
+    border-radius: 10px;
+    background-color: #e5eefc; /* Azul muy claro */
+    border: 1px solid #4A77D4; /* Azul un poco más intenso */
+}
+
+.tarjeta-consejo h2 {
+    margin-top: 0;
+    color: #1B4E9B;
+}
+
+/* Botón de llamada a la acción (Call To Action) */
+.boton-accion {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 10px 18px;
+    background-color: #1B4E9B; /* Azul principal */
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 6px;
+}
+
+/* Estado hover del botón: CONSEJO CLAVE
+   Siempre define cómo se comporta un botón cuando el usuario pasa el mouse.
+*/
+.boton-accion:hover {
+    background-color: #163b74; /* Azul un poco más oscuro */
+}
+
+/* CONSEJO CLAVE:
+   Agrupa estilos relacionados visualmente y por función.
+   Esto facilita que otros desarrolladores (o tú mismo en el futuro)
+   entiendan y modifiquen el código.
+*/
