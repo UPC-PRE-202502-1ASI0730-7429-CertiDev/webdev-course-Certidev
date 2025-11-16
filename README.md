@@ -43,11 +43,11 @@ requiere descargas!** Solo abre tu navegador web.
 - **Todas las Actividades Prácticas**:
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/thepuma/pen/GgZNVje) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/pen/?template=your-starter) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/thepuma/pen/GgZNVje) |
+| 3 | Añadir imágenes | [CodePen](https://codepen.io/thepuma/pen/dPMOxzg) |
+| 4 | Estilo de la página | [JSFiddle](https://jsfiddle.net/Miguelon27/01kh9wt3/3) |
+| 5 | Página de perfil | [JSFiddle](https://forms.gle/your-form) |
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
