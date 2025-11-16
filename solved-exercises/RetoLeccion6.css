@@ -1,0 +1,95 @@
+/* RetoLeccion6.css
+   INICIO DEL RETO RESUELTO
+   Objetivo:
+   1. Mejorar la legibilidad del texto.
+   2. Aumentar el contraste del botón principal.
+   3. Agregar un efecto visual cuando el usuario pase el mouse sobre la tarjeta de consejo.
+*/
+
+/* Estilos base del cuerpo */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f2f8;
+    color: #222;
+}
+
+/* Contenedor general */
+.contenedor-principal {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 24px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+}
+
+/* Títulos */
+.titulo-leccion {
+    font-size: 2rem;
+    margin-bottom: 12px;
+    color: #1B4E9B;
+}
+
+.subtitulo-leccion {
+    font-size: 1.15rem;        /* CONSEJO CLAVE: un poco más grande para mejorar lectura */
+    margin-bottom: 24px;
+    color: #444;
+    line-height: 1.5;          /* Aumentar el interlineado mejora la comprensión */
+}
+
+/* Lista de consejos */
+.lista-consejos {
+    list-style-type: disc;
+    padding-left: 24px;
+}
+
+.lista-consejos li {
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+/* Tarjeta de consejo importante */
+.tarjeta-consejo {
+    margin-top: 24px;
+    padding: 18px 20px;
+    border-radius: 10px;
+    background-color: #e5eefc;
+    border: 1px solid #4A77D4;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.tarjeta-consejo h2 {
+    margin-top: 0;
+    color: #1B4E9B;
+}
+
+/* Efecto al pasar el mouse por la tarjeta:
+   CONSEJO CLAVE: pequeñas animaciones ayudan a la experiencia del usuario. */
+.tarjeta-consejo:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+}
+
+/* Botón de acción */
+.boton-accion {
+    display: inline-block;
+    margin-top: 16px;
+    padding: 10px 20px;
+    background-color: #1B4E9B; /* Azul fuerte para buen contraste */
+    color: #ffffff;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 6px;
+    letter-spacing: 0.03em;
+}
+
+/* Estado hover del botón:
+   Hacemos el color más oscuro y añadimos una ligera sombra. */
+.boton-accion:hover {
+    background-color: #123466;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.18);
+}
+
+/* FIN DEL RETO RESUELTO */
