@@ -6,31 +6,31 @@ requiere descargas!** Solo abre tu navegador web.
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**📂 Repositorio de código fuente**: [https://github.com/yourusername/webdev-courseteamname](https://github.com/yourusername/webdev-course-teamname)
+**📂 Repositorio de código fuente**: [https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/webdev-course-Certidev.git](https://github.com/UPC-PRE-202502-1ASI0730-7429-CertiDev/webdev-course-Certidev.git)
 ## Secuencia de la lección
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? (10 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](https://youtu.be/CldKECA0XcE)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
-### Lección 2: Introducción a HTML (10 minutos)
+### Lección 2: Introducción a HTML (5 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/98jFkYkzjCk)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡No necesitas registrarte!**
-### Lección 3: Añadir más elementos HTML (8 minutos)
+### Lección 3: Añadir más elementos HTML (5 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://codepen.io/pen/)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
-### Lección 4: Introducción a CSS
+### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY) (00:00 - 05:24)
+- **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY) 
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo con un clic](https://youtu.be/xc55GUtrqXw) 👈 **¡No es necesario registrarse!**
-### Lección 5: Crear una página web sencilla 
+### Lección 5: Crear una página web sencilla (10 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY) (05:25 - 10:06)
+- **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY)
 - **Consejos clave**: Aplicar estilos y depurar errores.
 - **Proyecto Final**: [Crea tu Perfil](https://jsfiddle.net/Miguelon27/01kh9wt3/3) 👈 **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
