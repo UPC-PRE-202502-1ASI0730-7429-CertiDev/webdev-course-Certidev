@@ -17,10 +17,10 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/98jFkYkzjCk)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://youtu.be/cBl0hIDnwYQ)
+- **Enlace**: [Ver la lección](https://codepen.io/pen/)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
 ### Lección 4: Introducción a CSS
@@ -43,7 +43,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Todas las Actividades Prácticas**:
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/thepuma/pen/GgZNVje) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
