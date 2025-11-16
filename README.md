@@ -20,9 +20,9 @@ requiere descargas!** Solo abre tu navegador web.
 - **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡No necesitas registrarte!**
 ### Lección 3: Añadir más elementos HTML (5 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://codepen.io/pen/)
+- **Enlace**: [Ver la lección](https://youtu.be/cBl0hIDnwYQ)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/pen/) 👈 **¡Comienza al instante!**
 ### Lección 4: Introducción a CSS (10 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY) 
@@ -47,7 +47,7 @@ requiere descargas!** Solo abre tu navegador web.
 | 2 | Primera página HTML | [CodePen](https://codepen.io/thepuma/pen/GgZNVje) |
 | 3 | Añadir imágenes | [CodePen](https://codepen.io/thepuma/pen/dPMOxzg) |
 | 4 | Estilo de la página | [JSFiddle](https://jsfiddle.net/Miguelon27/01kh9wt3/3) |
-| 5 | Página de perfil | [JSFiddle](https://forms.gle/your-form) |
+| 5 | Página de perfil | [JSFiddle](https://jsfiddle.net/Miguelon27/01kh9wt3/3) |
 - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - Compartir: #WebDevBeginners
 **¡Gracias por completar el curso!**
@@ -57,8 +57,12 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 202520
 1ASI0730 Aplicaciones Web
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de su equipo]
-**Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
-**Fecha de entrega**: [Fecha]
+NRC 7429
+**Nombre del equipo**: CertiDev
+**Líder del equipo**: Joaquin Enrique Carranza Tesen
+**Integrantes del equipo**: 
+- Joaquin Carranza
+- Jhordi Lopez
+- Juan Manuel Santos
+- Miguel Roman
+**Fecha de entrega**: 16-11-2025
