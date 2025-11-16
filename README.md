@@ -27,7 +27,7 @@ requiere descargas!** Solo abre tu navegador web.
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY) (00:00 - 05:24)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://jsfiddle.net) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://youtu.be/xc55GUtrqXw) 👈 **¡No es necesario registrarse!**
 ### Lección 5: Crear una página web sencilla 
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
 - **Enlace**: [Ver la lección](https://youtu.be/P4_MYZBtLIY) (05:25 - 10:06)
